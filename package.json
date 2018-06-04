@@ -1,0 +1,27 @@
+{
+  "name": "triqui-triqui",
+  "version": "0.1.0",
+  "description": "a web triqui triqui game for the challenge of the platzi \"fundamentos de java script\" course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisFelipeEvilla/triqui-triqui.git"
+  },
+  "keywords": [
+    "triqui-triqui",
+    "platzi",
+    "game",
+    "juego",
+    "challenge",
+    "desafio"
+  ],
+  "author": "Luis Felipe Evilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisFelipeEvilla/triqui-triqui/issues"
+  },
+  "homepage": "https://github.com/luisFelipeEvilla/triqui-triqui#readme"
+}
